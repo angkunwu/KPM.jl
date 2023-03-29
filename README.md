@@ -7,6 +7,11 @@
 
 
 ## Installation
+  First, install the old version of CUDA with
+  ```
+  ] add CUDA@3.12.0
+  ```
+  Then, add the KPM package
   ```
   ] add https://github.com/yixingfu/KPM.jl
   ```
