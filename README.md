@@ -13,7 +13,7 @@
   ```
   Then, add the KPM package
   ```
-  ] add https://github.com/yixingfu/KPM.jl
+  ] add https://github.com/angkunwu/KPM.jl
   ```
 
   This is an [unregistered package](https://docs.julialang.org/en/v1.0/stdlib/Pkg/#Adding-unregistered-packages-1) for now, so we need to use github URL to add package. Github username and password needed.
